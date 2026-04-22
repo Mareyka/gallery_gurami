@@ -1,0 +1,30 @@
+* {
+  background-color: #111111;
+  color: #EFEAD3;
+}
+
+.header {
+  background: rgba(17, 17, 17, 0.7);
+  backdrop-filter: blur(12px);
+}
+
+.header * {
+  background: transparent;
+}
+
+/*искдючение. тут стиль фона для кредита применяется*/
+.header .credits_gradient_dark {
+  background: linear-gradient(to right, #5658F6, #111111);
+}
+
+.burger-btn span {
+  background: #EFEAD3;
+}
+
+.side-menu {
+  background: #111111;
+}
+
+.side-menu-link {
+  color: #EFEAD3;
+}
