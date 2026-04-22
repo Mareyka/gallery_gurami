@@ -2875,4 +2875,8 @@ hr {
     display: grid;
   }
 
+  .biography_text_2 {
+  margin-top: -50px;
+}
+
 }
